@@ -103,6 +103,6 @@ class SystemAgent:
 
 if __name__ == '__main__':
     agent = SystemAgent()
-    agent.answer("用户邮箱为536001397@qq.com")
+    agent.answer("用户邮箱为XX@qq.com")
 
 
